@@ -1,6 +1,6 @@
 # How to design a radial time picker using the .NET MAUI Radial Gauge control
 
-This repository contains sample for how to design a radial timer picker using the [Syncfusion .NET MAUI Radial Gauge](https://help.syncfusion.com/maui/radial-gauge/getting-started) control.
+This repository contains how to design a radial timer picker using the [Syncfusion .NET MAUI Radial Gauge](https://help.syncfusion.com/maui/radial-gauge/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/13594/how-to-design-a-radial-timer-picker-using-net-maui-radial-gauge-sfradialgauge).
 

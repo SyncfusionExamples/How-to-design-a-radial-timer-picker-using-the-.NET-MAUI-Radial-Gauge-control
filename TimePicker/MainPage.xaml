@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:gauge="clr-namespace:Syncfusion.Maui.Gauges;assembly=Syncfusion.Maui.Gauges"
              x:Class="TimePicker.MainPage"
+             x:DataType="gauge:ContentPointer"
              BackgroundColor="White">
 
     <Grid HorizontalOptions="Center"
@@ -11,8 +12,8 @@
             <VerticalStackLayout>
                 <Grid BackgroundColor="#512BD4"
                       Padding="10">
-                    <HorizontalStackLayout HorizontalOptions="CenterAndExpand"
-                                           VerticalOptions="CenterAndExpand">
+                    <HorizontalStackLayout HorizontalOptions="Center"
+                                           VerticalOptions="Center">
                         <Label x:Name="HoursLabel"
                                Text="10"
                                FontSize="40"
